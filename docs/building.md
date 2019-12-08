@@ -58,8 +58,7 @@ You will also need some development libraries. To get them on an ubuntu system:
 sudo apt-get install libgtk-3-dev libpthread-stubs0-dev liblz4-dev libglew-dev libx11-dev libvulkan-dev libc++-dev libc++abi-dev
 ```
 
-In addition, you will need the latest OpenGL libraries and drivers for your hardware. Intel and the open source
-drivers are not supported as they do not yet support OpenGL 4.5.
+In addition, you will need the latest OpenGL libraries and drivers for your hardware, that support at least OpenGL 4.5.
 
 #### Linux NVIDIA Vulkan Drivers
 
